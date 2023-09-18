@@ -44,6 +44,7 @@ function SingleNews() {
             })}
         </div>
       </div>
+      <hr />
       <div>
         <div className="py-12">
           <h1 className="py-2 text-4xl font-black">Related News</h1>
